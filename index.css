@@ -1,0 +1,20 @@
+.main {
+    margin: 100px 30px;
+    padding-top: 100px;
+    text-align: center;
+}
+
+.title {
+    font-size: 100px;
+    margin: 0px;
+    margin-bottom: 150px;
+}
+.img_recipes {
+    padding-bottom: 10px;
+}
+.turkey_burgers, 
+.taco_casserole,
+.dump_cake {
+    display: inline;
+    margin: 20px;
+}

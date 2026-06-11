@@ -1,0 +1,24 @@
+.main {
+    margin: 50px 25%;
+    padding: 10px;
+}
+.header, h2 {
+    text-align: center;
+    font-size: 30px;
+}
+
+.ul-wrapper {
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+}
+
+a {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
